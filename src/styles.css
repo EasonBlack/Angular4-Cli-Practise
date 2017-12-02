@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+body {
+    overflow:hidden;
+}
+
+a {
+	color: #F5F2FA;
+    text-decoration: none;
+	text-align: center;
+}
+
+a:link {
+    color: #F5F2FA;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #F5F2FA;
+    text-decoration: none;
+}

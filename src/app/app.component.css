@@ -1,0 +1,19 @@
+/*Top Navigation Bar*/
+.navbar {
+    padding-left: 0px;
+    margin-bottom: 0px;
+    border: 0px;
+    background-color: #323D4F;
+}
+
+.heading {
+    margin-top: 14px;
+    color: white;
+}
+
+.menu_wrapper {
+    width:100%;
+    height: calc(100vh - 50px);
+    background-color: grey;
+} 
+
